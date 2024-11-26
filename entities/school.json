@@ -1,0 +1,9 @@
+{
+  "columns": [
+    ["id", "int AUTO_INCREMENT PRIMARY KEY"],
+    ["name", "varchar(225)"],
+    ["school_code", "int"]
+  ],
+
+  "primary_key": "id"
+}

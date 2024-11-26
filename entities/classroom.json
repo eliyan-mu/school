@@ -1,0 +1,10 @@
+{
+  "columns": [
+    ["id", "int AUTO_INCREMENT PRIMARY KEY"],
+    ["grade", "int"],
+    ["class_index", "int"],
+    ["teacher_id ", "int"]
+  ],
+
+  "primary_key": "id"
+}
